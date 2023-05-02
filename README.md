@@ -15,7 +15,7 @@ I’m Osama, a Software Engineer, with a love for React and Redux creative coder
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=osamaashraf6&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaashraf6&layout=compact)](https://github.com/osamaashraf6)
 
 
 ## Languages and Tools 💼⚙️
