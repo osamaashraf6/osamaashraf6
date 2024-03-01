@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Osama</h1>
 <h3 align="center">A front-end web developer and a computer scientist from Egypt</h3>
 
-<p align="center">I have a great passion 😃💻 for learning languages, frameworks and new technologies. In addition to that, I enjoy 😊 designing websites and bringing them to life with various technologies, Software Engineer👩‍💻, with a love for React and Redux creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications🍀 that run blazing fast. Open to new opportunities.🚀💯</p>
+<p align="center">I have a great passion 😃💻 for learning languages, frameworks and new technologies. In addition to that, I enjoy 😊 designing websites and bringing them to life with various technologies, Software Engineer👩‍💻, with a love for React and Redux and Next, and also a Node/Express creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications🍀 that run blazing fast. Open to new opportunities.🚀💯</p>
 
 ---
 
@@ -23,7 +23,7 @@
 
 - 👩‍💻 I have a **Full-Stack Software Developement** certificate, obtained from [Microverse.](https://github.com/microverseinc)
 
-- ❤️ Love to work with **JS | React | Redux | RoR**
+- ❤️ Love to work with **JS | React | Redux | Next | Node/Express |RoR**
 
 - 🌱 Passionate about building dynamic and responsive web applications
 
