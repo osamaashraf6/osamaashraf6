@@ -19,7 +19,7 @@
 
 ## About Me 🚀
 
-- 🎓 I have a **master's degree** in Computer Science (networks & distributed systems). Obtained from the University of Constantine2, Algeria.
+
 
 - 👩‍💻 I have a **Full-Stack Software Developement** certificate, obtained from [Microverse.](https://github.com/microverseinc)
 
